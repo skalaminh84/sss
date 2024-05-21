@@ -1,158 +1,34 @@
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<!DOCTYPE html>
-<html lang="en">
+## Getting Started
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <meta name="galaksion-domain-verification" content="8e453a399088109b87d376ab788a207354ccfca186223c972d540a26d6c731dc" />
-    <title>Click Here to Watch</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: black;
-            color: red;
-        }
+First, run the development server:
 
-        .card {
-            margin-bottom: 30px;
-        }
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-        .card img {
-            max-height: 300px;
-            object-fit: cover;
-        }
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-        .footer {
-            background-color: #1a1a1a;
-            color: #fff;
-            padding: 20px 0;
-            text-align: center;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-    <script data-cfasync="false" async type="text/javascript" src="//esculicturbans.com/ryf5KZsA2GS00JBMJ/81825"></script>
-</head>
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-<body>
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-    <!-- Header -->
-    <header class="bg-dark text-danger py-4">
-        <div class="container">
-            <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                target="_blank" class="video-link text-decoration-none text-danger">
-                <h1 class="text-center">Fresh Private Videos</h1>
-            </a>
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-        </div>
-    </header>
-    <script data-cfasync="false" async type="text/javascript" src="//esculicturbans.com/ryf5KZsA2GS00JBMJ/81825"></script>
+## Learn More
 
-    <!-- Image Gallery -->
-    <h2 class="text-center mb-4">All Videos</h2>
-    <div class="row">
-        <div class="col-md-4">
-            <div class="card">
-                <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="video-link">
-                    <img src="images/4.png" class="card-img-top" alt="Image 1">
-                </a>
-                <center> <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"target="_blank">
-                        <img src="images/chubbyscholarlyeelelephant-size_restricted.gif" alt="Button Image" width="100%px"
-                            height="100%px">
-                    </a></center>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="video-link">
-                    <img src="images/2.png" class="card-img-top" alt="Image 2">
-                </a>
-                <center> <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"target="_blank">
-                        <img src="images/chubbyscholarlyeelelephant-size_restricted.gif" alt="Button Image" width="100%px"
-                            height="100%px">
-                    </a></center>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="video-link">
-                    <img src="images/5.png" class="card-img-top" alt="Image 3">
-                </a>
-                <center> <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"target="_blank">
-                        <img src="images/chubbyscholarlyeelelephant-size_restricted.gif" alt="Button Image" width="100%px"
-                            height="100%px">
-                    </a></center>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="video-link">
-                    <img src="images/3.png" class="card-img-top" alt="Image 3">
-                </a>
-                <center> <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"target="_blank">
-                        <img src="images/chubbyscholarlyeelelephant-size_restricted.gif" alt="Button Image" width="100%px"
-                            height="100%px">
-                    </a></center>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="video-link">
-                    <img src="images/6.png" class="card-img-top" alt="Image 3">
-                </a>
-                <center> <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"target="_blank">
-                        <img src="images/chubbyscholarlyeelelephant-size_restricted.gif" alt="Button Image" width="100%px"
-                            height="100%px">
-                    </a></center>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="card">
-                <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="video-link">
-                    <img src="images/1.png" class="card-img-top" alt="Image 3">
-                </a>
-                <center> <a href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"target="_blank">
-                        <img src="images/chubbyscholarlyeelelephant-size_restricted.gif" alt="Button Image" width="100%px"
-                            height="100%px">
-                    </a></center>
-            </div>
-        </div>
-    </div>
-    <script data-cfasync="false" async type="text/javascript" src="//esculicturbans.com/ryf5KZsA2GS00JBMJ/81825"></script>
-    </div>
+To learn more about Next.js, take a look at the following resources:
 
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <p class="text-light">© 2024 <a
-                    href="https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c"
-                    target="_blank" class="text-decoration-none text-danger">Fresh Videos</a>. All rights
-                reserved.</p>
-        </div>
-    </footer>
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            var links = document.querySelectorAll('.video-link');
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-            links.forEach(function (link) {
-                link.href = "https://dearesthydrogen.com/h032mhsf?key=5ce94de13ffa64f761cad24ad4acbf6c";
-            });
-        });
-    </script>
-    <script disable-devtool-auto src="https://fastly.jsdelivr.net/npm/disable-devtool/disable-devtool.min.js"></script>
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
-   <script data-cfasync="false" async type="text/javascript" src="//esculicturbans.com/ryf5KZsA2GS00JBMJ/81825"></script>
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-</body>
-
-</html>
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
